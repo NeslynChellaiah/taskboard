@@ -1,0 +1,11 @@
+.main-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.list-area{
+    padding-top: 20px;
+    height: 90vh;
+    background-color: blanchedalmond;
+    overflow: auto;
+}
